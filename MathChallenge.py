@@ -1,6 +1,5 @@
 #!/bin/python3
 
-from tkinter import W
 from sympy import symbols, Eq, solve
 
 def print_title():
